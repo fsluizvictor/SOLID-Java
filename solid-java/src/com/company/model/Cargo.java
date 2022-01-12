@@ -1,4 +1,4 @@
-package br.com.alura.rh.model;
+package com.company.model;
 
 public enum Cargo {
 
